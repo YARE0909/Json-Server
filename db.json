@@ -1,0 +1,16 @@
+{
+  "blogposts": [
+    {
+      "title": "Tests succ",
+      "content": "Fafd succ",
+      "date": "8/4/2023, 1:03:03 pm",
+      "id": 1
+    },
+    {
+      "title": "Tea",
+      "content": "Coffee",
+      "date": "8/4/2023, 1:03:20 pm",
+      "id": 2
+    }
+  ]
+}
